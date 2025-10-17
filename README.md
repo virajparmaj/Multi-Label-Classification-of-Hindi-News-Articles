@@ -1,4 +1,3 @@
-````markdown
 # Multi-Label Classification of Hindi News Articles
 _A machine learning system for empowering local Hindi news organizations_
 
